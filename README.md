@@ -1,1 +1,1 @@
-# SQL-27_Netology Homeworks
+# SQL-27 (SQL и получение данных)
